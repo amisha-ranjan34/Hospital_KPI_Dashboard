@@ -1,7 +1,7 @@
 # Hospital_KPI_Dashboard
 
 ## View Live Dashboard
-[Click here to view the interactive dashboard]((https://amisha-ranjan34.github.io/Hospital_KPI_Dashboard/))
+(https://amisha-ranjan34.github.io/Hospital_KPI_Dashboard/)
 
 ## About This Dashboard
 - **Revenue**: 1.69bn
@@ -13,9 +13,6 @@
 - Power BI Desktop
 - Power BI Service
 - GitHub Pages
-
-## Data Source
-[Describe your data source]
 
 ## Key Metrics Tracked
 - Revenue by room category
